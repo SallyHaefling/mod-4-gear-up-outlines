@@ -22,6 +22,7 @@
     
 Checklist: 
 
+
 - [ ] Does your Gear Up have a title?
 - [ ] Do you have a slide deck that has permission for ANYONE WITH THE LINK to view it?
 - [ ] Did you include an introduction of yourself?
